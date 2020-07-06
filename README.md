@@ -54,4 +54,5 @@
 
 # TODO
 ------
+- Matter values for blocks and items
 - Custom Patchouli book (for future)
