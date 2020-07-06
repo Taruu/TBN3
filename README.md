@@ -47,12 +47,11 @@
 
 # Changes to defaults
 ---------------------
-* No Immersive Engineering Excavator
+* Removed Immersive Engineering Excavator
+* Removed Garden Cloche
+* Removed Phytogenic Insolator
 
 
 # TODO
 ------
-- EnderIO - remove item and fluid conduits, maybe power monitors (needs investigation)
-- Immersive Engineering - Disable Excavator multistructure
-- Search for automation ways other than OC robots and disable/change them
 - Custom Patchouli book (for future)
