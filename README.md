@@ -1,10 +1,12 @@
 # Mod List
 ----------
-* Service
+* Utility
     - AromaBackup (Serverside)
     - LagGoggles (Serverside)
+    - Fast Leaf decay (Serverside)
     - NoMorerecipeConflict
     - CraftTweaker
+    - UniDict
 * Clientside
     - JEI, JER, JEI Integration
     - classicbar
@@ -26,7 +28,7 @@
     - TechReborn
     - Matter Overdrive
     - Galacticraft
-* Second place mods
+* Additional mods
     - Immersive Posts
     - Quark
     - Patchouli
@@ -35,6 +37,8 @@
     - Zetta Industries
     - Extreme Reactors
     - Chisel
+    - Actually Additions
+    - OpenBlocks
 * OpenComputers add-ons
     - Computronics
     - OpenFM
