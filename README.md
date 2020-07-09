@@ -56,6 +56,12 @@
 * Removed Phytogenic Insolator
 
 
+# Installation
+--------------
+Requires python 3.8
+Clone repo into your `.minecraft` folder (or any other folder in which you have mods, config, etc folders), then run `python downloader.py` (To actually download mods). More info about this tool (link here).
+
+
 # TODO
 ------
 - Matter values for blocks and items
