@@ -439,5 +439,19 @@
     "md5hash": "48b1c871040aa487dcc45ba072230ac5",
     "glob": "EnderIO-zoo-1.12.2-?.?.*.jar",
     "optional": false
+  },
+  {
+    "link": "https://www.curseforge.com/minecraft/mc-mods/galaxy-space-addon-for-galacticraft/download/2946091",
+    "filename": "GalaxySpace-1.12.2-2.0.13.jar",
+    "md5hash": "f779565a8a6d03bfeaa76e8ff156e084",
+    "glob": "GalaxySpace-1.12.2-?.?.*.jar",
+    "optional": false
+  },
+  {
+    "link": "https://www.curseforge.com/minecraft/mc-mods/asmodeuscore/download/2953176",
+    "filename": "AsmodeusCore-1.12.2-0.0.16.jar",
+    "md5hash": "5b79d23b59cf73dd5c96cac9d3a95c78",
+    "glob": "AsmodeusCore-1.12.2-?.?.*.jar",
+    "optional": false
   }
 ]
