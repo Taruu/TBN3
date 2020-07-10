@@ -39,6 +39,7 @@
     - Chisel
     - Actually Additions
     - OpenBlocks
+    - NuclearCraft
 * OpenComputers add-ons
     - Computronics
     - OpenFM
