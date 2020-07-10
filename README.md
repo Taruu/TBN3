@@ -27,7 +27,7 @@
     - EnderIO (Base, Machine, Conduits, OC conduits, Zoo, Endergy)
     - TechReborn
     - Matter Overdrive
-    - Galacticraft
+    - Galacticraft (Addons: GalaxySpace)
 * Additional mods
     - Immersive Posts
     - Quark
