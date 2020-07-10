@@ -453,5 +453,12 @@
     "md5hash": "5b79d23b59cf73dd5c96cac9d3a95c78",
     "glob": "AsmodeusCore-1.12.2-?.?.*.jar",
     "optional": false
+  },
+  {
+    "link": "https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-mod/download/2995656",
+    "filename": "NuclearCraft-2.18v-1.12.2.jar",
+    "md5hash": "ccfde7cfab8785fa921e8ae4c8451e6e",
+    "glob": "NuclearCraft-?.*v-1.12.2.jar",
+    "optional": false
   }
 ]
