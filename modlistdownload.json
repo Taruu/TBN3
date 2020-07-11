@@ -460,5 +460,12 @@
     "md5hash": "ccfde7cfab8785fa921e8ae4c8451e6e",
     "glob": "NuclearCraft-?.*v-1.12.2.jar",
     "optional": false
+  },
+  {
+    "link": "https://www.curseforge.com/minecraft/mc-mods/wanionlib/download/2807433",
+    "filename": "WanionLib-1.12.2-2.4.jar",
+    "md5hash": "98eaacdc2b62a0d1bd47fefa2308713c",
+    "glob": "WanionLib-1.12.2-?.*.jar",
+    "optional": false
   }
 ]
