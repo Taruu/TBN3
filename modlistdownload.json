@@ -448,9 +448,9 @@
     "optional": false
   },
   {
-    "link": "https://www.curseforge.com/minecraft/mc-mods/asmodeuscore/download/2953176",
-    "filename": "AsmodeusCore-1.12.2-0.0.16.jar",
-    "md5hash": "5b79d23b59cf73dd5c96cac9d3a95c78",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/asmodeuscore/download/2950369",
+    "filename": "AsmodeusCore-1.12.2-0.0.15.jar",
+    "md5hash": "9f42dad32d0ee1322267d24a0ec26e46",
     "glob": "AsmodeusCore-1.12.2-?.?.*.jar",
     "optional": false
   },
