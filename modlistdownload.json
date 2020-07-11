@@ -196,13 +196,6 @@
     "optional": false
   },
   {
-    "link": "https://www.curseforge.com/minecraft/mc-mods/extreme-reactors/download/2722271",
-    "filename": "ExtremeReactors-1.12.2-0.4.5.67.jar",
-    "md5hash": "92e5cc48aca43add940af096e7694141",
-    "glob": "ExtremeReactors-1.12.2-?.?.?.*.jar",
-    "optional": false
-  },
-  {
     "link": "https://www.curseforge.com/minecraft/mc-mods/thermal-foundation/download/2926428",
     "filename": "ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
     "md5hash": "6eca041bbf28949b60ecf1179d561156",
@@ -236,13 +229,6 @@
     "md5hash": "c00876e68a57bff1f23d72e881903793",
     "glob": "keywizard-1.12.2-?.?.*.jar",
     "optional": true
-  },
-  {
-    "link": "https://www.curseforge.com/minecraft/mc-mods/bonsai-trees/download/2846217",
-    "filename": "bonsaitrees-1.1.4-b170.jar",
-    "md5hash": "136677befb5a253b867c8fde52bfa11b",
-    "glob": "bonsaitrees-?.?.?-b*.jar",
-    "optional": false
   },
   {
     "link": "https://www.curseforge.com/minecraft/mc-mods/mcmultipart/download/2615930",
