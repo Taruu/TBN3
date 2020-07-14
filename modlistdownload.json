@@ -1,25 +1,25 @@
 [
   {
     "link": "https://www.curseforge.com/minecraft/mc-mods/actually-additions/download/2844115",
-    "filename": "ActuallyAdditions-1.12.2-r151-2.jar",
+    "filename": "ActuallyAdditions.jar",
     "md5hash": "e62726802ff285f63da89690895c375c",
     "optional": false
   },
   {
     "link": "https://www.curseforge.com/minecraft/mc-mods/autoreglib/download/2746011",
-    "filename": "AutoRegLib-1.3-32.jar",
+    "filename": "AutoRegLib.jar",
     "md5hash": "4e5a4b881c27b1e4502a9a16c00882ad",
     "optional": false
   },
   {
     "link": "https://www.curseforge.com/minecraft/mc-mods/baubles/download/2518667",
-    "filename": "Baubles-1.12-1.5.2.jar",
+    "filename": "Baubles.jar",
     "md5hash": "944dec4ef3fbfd4d498d94a7047af201",
     "optional": false
   },
   {
     "link": "https://www.curseforge.com/minecraft/mc-mods/ctm/download/2915363",
-    "filename": "CTM-MC1.12.2-1.0.2.31.jar",
+    "filename": "CTM-MC.jar",
     "md5hash": "77a8bb5486c97e3eaa6f45e5bd768864",
     "optional": false
   },
@@ -141,6 +141,7 @@
     "link": "https://www.curseforge.com/minecraft/mc-mods/patchouli/download/2992184",
     "filename": "Patchouli-1.0-21.jar",
     "md5hash": "91b259ab3aadfcc5afeffdc6ec79220b",
+    "glob": "Patchouli-?.*-*.jar",
     "optional": false
   },
   {
@@ -162,18 +163,21 @@
     "optional": false
   },
   {
-    "link": "https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics/download/2920505",
-    "filename": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
-    "md5hash": "38a0c024f5775b0cf783de839033f8db",
-    "optional": false
-  },
-  {
     "link": "https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer/download/2728585",
     "filename": "JustEnoughResources-1.12.2-0.9.2.60.jar",
     "md5hash": "87a4666549a60d8fb423883dd4ee6232",
     "optional": false
   },
   {
+<<<<<<< HEAD:modlistdownload.json
+=======
+    "link": "https://www.curseforge.com/minecraft/mc-mods/extreme-reactors/download/2722271",
+    "filename": "ExtremeReactors-1.12.2-0.4.5.67.jar",
+    "md5hash": "92e5cc48aca43add940af096e7694141",
+    "optional": false
+  },
+  {
+>>>>>>> 050494864ee0953eb09bc57eb3002be62cf9f6a8:testconfig/modlistdownload.json
     "link": "https://www.curseforge.com/minecraft/mc-mods/thermal-foundation/download/2926428",
     "filename": "ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
     "md5hash": "6eca041bbf28949b60ecf1179d561156",
@@ -204,6 +208,15 @@
     "optional": true
   },
   {
+<<<<<<< HEAD:modlistdownload.json
+=======
+    "link": "https://www.curseforge.com/minecraft/mc-mods/bonsai-trees/download/2846217",
+    "filename": "bonsaitrees-1.1.4-b170.jar",
+    "md5hash": "136677befb5a253b867c8fde52bfa11b",
+    "optional": false
+  },
+  {
+>>>>>>> 050494864ee0953eb09bc57eb3002be62cf9f6a8:testconfig/modlistdownload.json
     "link": "https://www.curseforge.com/minecraft/mc-mods/mcmultipart/download/2615930",
     "filename": "MCMultiPart-2.5.3.jar",
     "md5hash": "47987d111d6f1e48403bc3cbb23f5503",
@@ -375,24 +388,28 @@
     "link": "https://www.curseforge.com/minecraft/mc-mods/galaxy-space-addon-for-galacticraft/download/2946091",
     "filename": "GalaxySpace-1.12.2-2.0.13.jar",
     "md5hash": "f779565a8a6d03bfeaa76e8ff156e084",
+    "glob": "GalaxySpace-1.12.2-?.?.*.jar",
     "optional": false
   },
   {
     "link": "https://www.curseforge.com/minecraft/mc-mods/asmodeuscore/download/2950369",
     "filename": "AsmodeusCore-1.12.2-0.0.15.jar",
     "md5hash": "9f42dad32d0ee1322267d24a0ec26e46",
+    "glob": "AsmodeusCore-1.12.2-?.?.*.jar",
     "optional": false
   },
   {
     "link": "https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-mod/download/2995656",
     "filename": "NuclearCraft-2.18v-1.12.2.jar",
     "md5hash": "ccfde7cfab8785fa921e8ae4c8451e6e",
+    "glob": "NuclearCraft-?.*v-1.12.2.jar",
     "optional": false
   },
   {
     "link": "https://www.curseforge.com/minecraft/mc-mods/wanionlib/download/2807433",
     "filename": "WanionLib-1.12.2-2.4.jar",
     "md5hash": "98eaacdc2b62a0d1bd47fefa2308713c",
+    "glob": "WanionLib-1.12.2-?.*.jar",
     "optional": false
   }
 ]
