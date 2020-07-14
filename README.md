@@ -55,6 +55,7 @@
 * Removed Immersive Engineering Excavator
 * Removed Garden Cloche
 * Removed Phytogenic Insolator
+* Tweaks to NuclearCraft radiation
 
 
 # Installation
