@@ -1,23 +1,5 @@
 [
   {
-    "projectId": 228404,
-    "fileId": 2844115,
-    "filename": "actually-additions.jar",
-    "optional": false
-  },
-  {
-    "projectId": 250363,
-    "fileId": 2746011,
-    "filename": "autoreglib.jar",
-    "optional": false
-  },
-  {
-    "projectId": 227083,
-    "fileId": 2518667,
-    "filename": "baubles.jar",
-    "optional": false
-  },
-  {
     "projectId": 267602,
     "fileId": 2915363,
     "filename": "ctm.jar",
