@@ -118,7 +118,8 @@
     "fileId": null,
     "filename": "MicdoodleCore-1.12.2-4.0.2.280.jar",
     "optional": false,
-    "url": "https://micdoodle8.com/new-builds/GC-1.12/280/MicdoodleCore-1.12.2-4.0.2.280.jar"
+    "url": "https://micdoodle8.com/new-builds/GC-1.12/280/MicdoodleCore-1.12.2-4.0.2.280.jar",
+    "md5hash": "2b033cb0694a53ea7b80876e2f00dec5"
   },
   {
     "projectId": 223852,
@@ -155,7 +156,8 @@
     "fileId": null,
     "filename": "GalacticraftCore-1.12.2-4.0.2.280.jar",
     "optional": false,
-    "url": "https://micdoodle8.com/new-builds/GC-1.12/280/GalacticraftCore-1.12.2-4.0.2.280.jar"
+    "url": "https://micdoodle8.com/new-builds/GC-1.12/280/GalacticraftCore-1.12.2-4.0.2.280.jar",
+    "md5hash": "9298e6b85b38eab9b830a0637f1fbced"
   },
   {
     "projectId": 69163,
@@ -228,7 +230,8 @@
     "fileId": null,
     "filename": "Galacticraft-Planets-1.12.2-4.0.2.280.jar",
     "optional": false,
-    "url": "https://micdoodle8.com/new-builds/GC-1.12/280/Galacticraft-Planets-1.12.2-4.0.2.280.jar"
+    "url": "https://micdoodle8.com/new-builds/GC-1.12/280/Galacticraft-Planets-1.12.2-4.0.2.280.jar",
+    "md5hash": "848ebcd467a3389c9461007d2b164a6c"
   },
   {
     "projectId": 228815,
@@ -343,7 +346,8 @@
     "fileId": null,
     "filename": "Computronics-1.12.2-1.6.6.jar",
     "optional": false,
-    "url": "http://files.vexatos.com/Computronics/Computronics-1.12.2-1.6.6.jar"
+    "url": "http://files.vexatos.com/Computronics/Computronics-1.12.2-1.6.6.jar",
+    "md5hash": "5e88b6e4939690a2067bf31f870a5577"
   },
   {
     "projectId": 281849,
